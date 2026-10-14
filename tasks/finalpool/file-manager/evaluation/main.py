@@ -1,11 +1,11 @@
 # Evaluation script for file-manager
 
-def run_file-manager():
-    # TODO: Implement actual file-manager logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_file-manager()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

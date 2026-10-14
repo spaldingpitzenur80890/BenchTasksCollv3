@@ -1,11 +1,11 @@
 # Evaluation script for booking-system
 
-def run_booking-system():
-    # TODO: Implement actual booking-system logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_booking-system()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

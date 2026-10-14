@@ -1,11 +1,11 @@
 # Evaluation script for network-analyzer
 
-def run_network-analyzer():
-    # TODO: Implement actual network-analyzer logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_network-analyzer()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

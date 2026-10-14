@@ -1,11 +1,11 @@
 # Evaluation script for shipment-tracker
 
-def run_shipment-tracker():
-    # TODO: Implement actual shipment-tracker logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_shipment-tracker()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

@@ -1,11 +1,11 @@
 # Evaluation script for data-validator
 
-def run_data-validator():
-    # TODO: Implement actual data-validator logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_data-validator()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

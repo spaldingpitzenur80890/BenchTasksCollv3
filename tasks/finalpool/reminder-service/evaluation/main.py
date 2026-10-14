@@ -1,11 +1,11 @@
 # Evaluation script for reminder-service
 
-def run_reminder-service():
-    # TODO: Implement actual reminder-service logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_reminder-service()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

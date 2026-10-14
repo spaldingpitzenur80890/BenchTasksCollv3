@@ -1,11 +1,11 @@
 # Evaluation script for follow-up-reminder
 
-def run_follow-up-reminder():
-    # TODO: Implement actual follow-up-reminder logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_follow-up-reminder()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

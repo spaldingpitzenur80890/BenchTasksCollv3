@@ -1,11 +1,11 @@
 # Evaluation script for sales-pipeline
 
-def run_sales-pipeline():
-    # TODO: Implement actual sales-pipeline logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_sales-pipeline()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

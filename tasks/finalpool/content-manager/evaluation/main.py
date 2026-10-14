@@ -1,11 +1,11 @@
 # Evaluation script for content-manager
 
-def run_content-manager():
-    # TODO: Implement actual content-manager logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_content-manager()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

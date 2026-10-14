@@ -1,11 +1,11 @@
 # Evaluation script for pdf-report-generator
 
-def run_pdf-report-generator():
-    # TODO: Implement actual pdf-report-generator logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_pdf-report-generator()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

@@ -1,11 +1,11 @@
 # Evaluation script for asset-optimizer
 
-def run_asset-optimizer():
-    # TODO: Implement actual asset-optimizer logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_asset-optimizer()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

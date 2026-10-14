@@ -1,11 +1,11 @@
 # Evaluation script for template-engine
 
-def run_template-engine():
-    # TODO: Implement actual template-engine logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_template-engine()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

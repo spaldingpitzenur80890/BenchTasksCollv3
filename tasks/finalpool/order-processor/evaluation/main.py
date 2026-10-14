@@ -1,11 +1,11 @@
 # Evaluation script for order-processor
 
-def run_order-processor():
-    # TODO: Implement actual order-processor logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_order-processor()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

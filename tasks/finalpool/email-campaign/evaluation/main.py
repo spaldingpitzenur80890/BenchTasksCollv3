@@ -1,11 +1,11 @@
 # Evaluation script for email-campaign
 
-def run_email-campaign():
-    # TODO: Implement actual email-campaign logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_email-campaign()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

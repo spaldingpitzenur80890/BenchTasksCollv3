@@ -1,11 +1,11 @@
 # Evaluation script for social-publisher
 
-def run_social-publisher():
-    # TODO: Implement actual social-publisher logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_social-publisher()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

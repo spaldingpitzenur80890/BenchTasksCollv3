@@ -1,11 +1,11 @@
 # Evaluation script for personalization-service
 
-def run_personalization-service():
-    # TODO: Implement actual personalization-service logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_personalization-service()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

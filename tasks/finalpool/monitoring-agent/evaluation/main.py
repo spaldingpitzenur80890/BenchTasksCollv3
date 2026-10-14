@@ -1,11 +1,11 @@
 # Evaluation script for monitoring-agent
 
-def run_monitoring-agent():
-    # TODO: Implement actual monitoring-agent logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_monitoring-agent()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

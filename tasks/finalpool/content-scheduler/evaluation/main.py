@@ -1,11 +1,11 @@
 # Evaluation script for content-scheduler
 
-def run_content-scheduler():
-    # TODO: Implement actual content-scheduler logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_content-scheduler()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

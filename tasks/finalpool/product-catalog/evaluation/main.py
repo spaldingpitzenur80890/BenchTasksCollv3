@@ -1,11 +1,11 @@
 # Evaluation script for product-catalog
 
-def run_product-catalog():
-    # TODO: Implement actual product-catalog logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_product-catalog()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

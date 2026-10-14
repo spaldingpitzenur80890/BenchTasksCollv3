@@ -1,11 +1,11 @@
 # Evaluation script for email-classification-system
 
-def run_email-classification-system():
-    # TODO: Implement actual email-classification-system logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_email-classification-system()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

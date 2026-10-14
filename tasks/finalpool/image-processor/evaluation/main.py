@@ -1,11 +1,11 @@
 # Evaluation script for image-processor
 
-def run_image-processor():
-    # TODO: Implement actual image-processor logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_image-processor()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

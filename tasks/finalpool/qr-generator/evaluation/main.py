@@ -1,11 +1,11 @@
 # Evaluation script for qr-generator
 
-def run_qr-generator():
-    # TODO: Implement actual qr-generator logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_qr-generator()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

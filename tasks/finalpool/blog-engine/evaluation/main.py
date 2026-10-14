@@ -1,11 +1,11 @@
 # Evaluation script for blog-engine
 
-def run_blog-engine():
-    # TODO: Implement actual blog-engine logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_blog-engine()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

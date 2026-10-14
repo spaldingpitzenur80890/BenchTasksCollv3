@@ -1,11 +1,11 @@
 # Evaluation script for voice-processor
 
-def run_voice-processor():
-    # TODO: Implement actual voice-processor logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_voice-processor()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

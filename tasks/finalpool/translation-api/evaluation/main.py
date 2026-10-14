@@ -1,11 +1,11 @@
 # Evaluation script for translation-api
 
-def run_translation-api():
-    # TODO: Implement actual translation-api logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_translation-api()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

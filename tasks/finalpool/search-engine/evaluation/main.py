@@ -1,11 +1,11 @@
 # Evaluation script for search-engine
 
-def run_search-engine():
-    # TODO: Implement actual search-engine logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_search-engine()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

@@ -1,11 +1,11 @@
 # Evaluation script for contact-manager
 
-def run_contact-manager():
-    # TODO: Implement actual contact-manager logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_contact-manager()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

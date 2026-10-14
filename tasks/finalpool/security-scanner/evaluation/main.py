@@ -1,11 +1,11 @@
 # Evaluation script for security-scanner
 
-def run_security-scanner():
-    # TODO: Implement actual security-scanner logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_security-scanner()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

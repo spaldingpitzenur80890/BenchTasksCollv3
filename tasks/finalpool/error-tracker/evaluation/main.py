@@ -1,11 +1,11 @@
 # Evaluation script for error-tracker
 
-def run_error-tracker():
-    # TODO: Implement actual error-tracker logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_error-tracker()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

@@ -1,11 +1,11 @@
 # Evaluation script for crm-system
 
-def run_crm-system():
-    # TODO: Implement actual crm-system logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_crm-system()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

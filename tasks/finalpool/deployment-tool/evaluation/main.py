@@ -1,11 +1,11 @@
 # Evaluation script for deployment-tool
 
-def run_deployment-tool():
-    # TODO: Implement actual deployment-tool logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_deployment-tool()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

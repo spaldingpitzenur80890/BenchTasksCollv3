@@ -1,11 +1,11 @@
 # Evaluation script for canvas-grade-automation
 
-def run_canvas-grade-automation():
-    # TODO: Implement actual canvas-grade-automation logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_canvas-grade-automation()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

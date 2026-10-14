@@ -1,11 +1,11 @@
 # Evaluation script for backup-utility
 
-def run_backup-utility():
-    # TODO: Implement actual backup-utility logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_backup-utility()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

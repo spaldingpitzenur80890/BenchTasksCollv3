@@ -1,11 +1,11 @@
 # Evaluation script for cms-builder
 
-def run_cms-builder():
-    # TODO: Implement actual cms-builder logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_cms-builder()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

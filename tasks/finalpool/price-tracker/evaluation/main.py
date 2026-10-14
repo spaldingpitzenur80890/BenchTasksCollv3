@@ -1,11 +1,11 @@
 # Evaluation script for price-tracker
 
-def run_price-tracker():
-    # TODO: Implement actual price-tracker logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_price-tracker()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

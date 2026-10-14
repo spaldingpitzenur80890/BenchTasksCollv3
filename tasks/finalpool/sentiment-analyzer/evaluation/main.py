@@ -1,11 +1,11 @@
 # Evaluation script for sentiment-analyzer
 
-def run_sentiment-analyzer():
-    # TODO: Implement actual sentiment-analyzer logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_sentiment-analyzer()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

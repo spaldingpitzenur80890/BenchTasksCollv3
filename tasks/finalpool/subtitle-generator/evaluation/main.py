@@ -1,11 +1,11 @@
 # Evaluation script for subtitle-generator
 
-def run_subtitle-generator():
-    # TODO: Implement actual subtitle-generator logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_subtitle-generator()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

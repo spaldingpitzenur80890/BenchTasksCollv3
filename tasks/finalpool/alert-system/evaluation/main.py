@@ -1,11 +1,11 @@
 # Evaluation script for alert-system
 
-def run_alert-system():
-    # TODO: Implement actual alert-system logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_alert-system()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:

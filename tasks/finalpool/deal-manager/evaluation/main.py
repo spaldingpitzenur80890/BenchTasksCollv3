@@ -1,11 +1,11 @@
 # Evaluation script for deal-manager
 
-def run_deal-manager():
-    # TODO: Implement actual deal-manager logic
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
-    result = run_deal-manager()
+    result = run_evaluation()
     if result:
         print('Evaluation passed')
     else:
